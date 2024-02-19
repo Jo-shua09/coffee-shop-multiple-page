@@ -323,7 +323,7 @@ img {
   color: #fff;
 }
 .products .box-container .box .icons a {
-  height: 4rem;
+  height: 5.5rem;
   width: 6rem;
   line-height: 5rem;
   font-size: 2rem;
@@ -515,6 +515,7 @@ img {
   border: var(--border);
   margin: 0.3rem;
   border-radius: 50%;
+  box-shadow: inset 1px 1px 10px gray;
 }
 .footer .share a:hover {
   background-color: var(--main-color);
